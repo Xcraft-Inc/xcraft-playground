@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx parcel src/index.html"
+  },
+  "dependencies": {
+    "@webcontainer/api": "^1.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
